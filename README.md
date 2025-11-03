@@ -166,6 +166,8 @@ README.md
 
 ### Step 2: Python Driver – Environment & Connectivity
 
+See the [Step 2 documentation](./Agent/Step%202/README.md) for details.
+
 1. Install VS Code and Python (if you don't already have them):
 
    - [Visual Studio Code](https://code.visualstudio.com/)
@@ -210,6 +212,8 @@ README.md
 
 ### Step 3: Python Driver – Saving Cars
 
+See the [Step 3 documentation](./Agent/Step%203/README.md) for details.
+
 1. Copy `requirements.txt` and `OEDatabaseDriver.py` from Step 3 into `C:\Work\Agent` (note: `requests` has been added to `requirements.txt`).
 
 2. Install new dependencies:
@@ -232,6 +236,8 @@ README.md
 
 ### Step 4: Python Driver – Retrieving Cars
 
+See the [Step 4 documentation](./Agent/Step%204/README.md) for details.
+
 1. Copy `OEDatabaseDriver.py` from Step 4 into `C:\Work\Agent`.
 
 2. Review the `get_car` method.
@@ -245,6 +251,8 @@ README.md
 ---
 
 ### Step 5: Introducing the AI Agent (LiveKit Integration)
+
+See the [Step 5 documentation](./Agent/Step%205/README.md) for details.
 
 1. Copy contents of Step 5 into `C:\Work\Agent`.
 
@@ -285,6 +293,8 @@ README.md
 
 ### Step 6: Booking Functionality
 
+See the [Step 6 documentation](./Agent/Step%206/README.md) for details.
+
 1. Add a new OpenEdge web handler for bookings (`bookingHandler`) — copy code from Step 6.
 
 2. Add a new ABL Service (`bookingService`) with transport **WEB** and service name `bookingService`.
@@ -314,6 +324,8 @@ README.md
 
 ### Step 7: Multi-Agent Architecture
 
+See the [Step 7 documentation](./Agent/Step%207/README.md) for details.
+
 1. Copy in code from Step 7 and review.
 
 2. Start the agent:
@@ -329,6 +341,8 @@ README.md
 ## (Optional) Bonus: React Frontend + Token Server and MCP Server
 
 ### Step 8: Frontend (optional)
+See the [Frontend documentation](./Frontend/README.md) for details.
+
 
 1. If you don’t already have it, download and install [Node.js](https://nodejs.org/).
 
@@ -372,6 +386,8 @@ README.md
 ---
 
 ### Step 9: Token Server (optional)
+See the [Token Server documentation](./TokenServer/README.md) for details.
+
 
 1. Create directory `C:\Work\TokenServer` and open it in VS Code.
 
